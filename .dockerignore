@@ -1,0 +1,4 @@
+# Copy of .gitignore
+node_modules/
+dist/
+.env

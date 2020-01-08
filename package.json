@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  },
+  "scripts": {
+    "run": "node ./build.js",
+    "build": "mkdir -p ./dist && node ./build.js > dist/index.html"
+  }
+}
